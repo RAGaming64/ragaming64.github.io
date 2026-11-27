@@ -1,1 +1,8 @@
-User-agent: OAI-SearchBot\nAllow: /\nUser-agent: Googlebot\nAllow: /\nUser-agent: *\nAllow: /\n\nSitemap: https://ragaming64.github.io/sitemap.xml\n
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://ragaming64.github.io/sitemap.xml
